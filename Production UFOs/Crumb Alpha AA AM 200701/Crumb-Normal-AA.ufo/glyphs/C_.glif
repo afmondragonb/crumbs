@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="918"/>
+  <unicode hex="0043"/>
+  <image fileName="S_creen S_hot 2020-06-02 at 3.16.25 P_M_000000000000002.png" xOffset="2111.0" yOffset="5254.0"/>
+  <outline>
+    <contour>
+      <point x="870" y="689" type="line"/>
+      <point x="811" y="726"/>
+      <point x="663" y="766"/>
+      <point x="524" y="766" type="curve" smooth="yes"/>
+      <point x="217" y="766"/>
+      <point x="27" y="618"/>
+      <point x="27" y="375" type="curve"/>
+      <point x="454" y="375" type="line"/>
+      <point x="454" y="435"/>
+      <point x="512" y="473"/>
+      <point x="607" y="473" type="curve"/>
+      <point x="690" y="473"/>
+      <point x="808" y="437"/>
+      <point x="870" y="410" type="curve"/>
+    </contour>
+    <contour>
+      <point x="870" y="61" type="curve"/>
+      <point x="870" y="340" type="line"/>
+      <point x="808" y="313"/>
+      <point x="690" y="277"/>
+      <point x="607" y="277" type="curve"/>
+      <point x="512" y="277"/>
+      <point x="454" y="315"/>
+      <point x="454" y="375" type="curve"/>
+      <point x="27" y="375" type="line"/>
+      <point x="27" y="132"/>
+      <point x="217" y="-16"/>
+      <point x="524" y="-16" type="curve" smooth="yes"/>
+      <point x="663" y="-16"/>
+      <point x="811" y="24"/>
+    </contour>
+  </outline>
+</glyph>
